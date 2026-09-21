@@ -920,6 +920,8 @@ Measure-Command {
 | หมุนขวาสุด ($180^\circ$)|4095|100%|100%| [✔️] ตรง [ ] ไม่ตรง |TEST OK|
 
 ---
+ภาพประกอบ
+<img width="2048" height="921" alt="Unknown-3" src="https://github.com/user-attachments/assets/980d0f2f-b33b-4853-8cd9-5d1029ecd1b4" />
 
 ## 5. บั๊กและข้อผิดพลาดที่พบบ่อย 
 
